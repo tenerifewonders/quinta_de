@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "name": "La Quinta Stops",
+  "features": [
+    { "type": "Feature", "properties": { "Name": "1. Plaza de Santa Úrsula und die Kirche Santa Úrsula Mártir", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/1.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4919159, 28.4259456] } },
+    { "type": "Feature", "properties": { "Name": "2. Hacienda de San Clemente", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/2.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4870589, 28.430514] } },
+    { "type": "Feature", "properties": { "Name": "3. La Giganta", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/3.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4913284, 28.4307331] } },
+    { "type": "Feature", "properties": { "Name": "4. Barranco de la Cruz", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/4.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4922505, 28.431655] } },
+    { "type": "Feature", "properties": { "Name": "5. Mirador Callado Blanco", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/5.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4927503, 28.4379028] } },
+    { "type": "Feature", "properties": { "Name": "6. Bunker von Santa Úrsula", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/6.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4965031, 28.4370121] } },
+    { "type": "Feature", "properties": { "Name": "7. Mirador de La Quinta", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/7.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4963526, 28.4361456] } },
+    { "type": "Feature", "properties": { "Name": "8. Kleine Plaza des Miradors", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/8.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4974412, 28.4318464] } },
+    { "type": "Feature", "properties": { "Name": "9. Rückkehr zur Plaza de Santa Úrsula", "audio": "https://xzymbvnljudyypdyuisf.supabase.co/storage/v1/object/public/quinta_de/9.mp3" }, "geometry": { "type": "Point", "coordinates": [-16.4919159, 28.4259456] } }
+  ]
+}
